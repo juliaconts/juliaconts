@@ -13,7 +13,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmcontreras3@up.edu.ph)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julia-louise-contreras-44a4723b5)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JuliaLouiseContreras)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)(https://julia-louise-portfolio.vercel.app/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://julia-louise-portfolio.vercel.app/)
 
 ## 📊 GitHub Stats:
 <p align="center">
